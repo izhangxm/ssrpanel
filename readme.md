@@ -26,35 +26,6 @@ telegram群组：https://t.me/chatssrpanel
 ![VPS推荐](https://github.com/ssrpanel/ssrpanel/wiki/VPS%E6%8E%A8%E8%8D%90)
 
 
-#### 打赏作者
-````
-如果你觉得这套代码好用，可以请我吃一个巨无霸汉堡，微信扫一下
-持续开发，喜欢请star一下
-````
-![打赏作者](https://github.com/ssrpanel/ssrpanel/blob/master/public/assets/images/donate.jpeg?raw=true)
-
-### 打赏名单
-|昵称|金额|
-|:-------|--------:| 
-|Law-杰|￥10| 
-|Err| ￥51 | 
-|緃噺開始 |￥5| 
-|【要求匿名】|￥267|
-|、无奈|￥5|
-|Sunny Woon|￥10|
-|aazzpp678|￥26|
-|风云_1688|￥15|
-|Royal|￥25|
-|bingo|￥8|
-|Eason|￥10|
-截止目前收到的捐赠：￥432
-实际到账：￥427.68 （提款手续费4.32）
-
-这些捐赠的用途：
-1.30刀买了1台VPS做开发测试用（后被干扰到几乎无法SSH）
-2.30刀买了一个Beyond Compare 4 Standard的正版激活码
-3.感谢Jyo提供一个台Azure给我开发测试用，需要代购VPS找在tg群里找他
-
 
 #### 拉取代码
 ````
@@ -156,14 +127,3 @@ sh initcfg.sh
 10.屏蔽常见爬虫
 11.更多功能和开发排期请看WIKI
 ````
-
-![Markdown](http://i4.bvimg.com/1949/aac73bf589fbd785.png)
-![Markdown](http://i4.bvimg.com/1949/a7c21b7504805130.png)
-![Markdown](http://i4.bvimg.com/1949/ee4e72cab0deb8b0.png)
-![Markdown](http://i4.bvimg.com/1949/ee21b577359a638a.png)
-![Markdown](http://i1.ciimg.com/1949/6741b88c5a02d550.png)
-![Markdown](http://i1.ciimg.com/1949/a12612d57fdaa001.png)
-![Markdown](http://i1.ciimg.com/1949/c5c80818393d585e.png)
-![Markdown](http://i1.ciimg.com/1949/c52861d84ed70039.png)
-![Markdown](http://i1.ciimg.com/1949/83354a1cd7fbd041.png)
-![Markdown](http://i1.bvimg.com/1949/13b6e4713a6d29c2.png)
